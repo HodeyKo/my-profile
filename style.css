@@ -1,0 +1,33 @@
+body {
+	background-color: #5D8AA8;
+	font-family: Courier;
+	background: #5D8AA8;
+    padding: 60px;
+    margin: 50px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 90px;
+
+
+}
+
+h1, h2, h3{
+	font-family: Courier;
+}
+
+h1	{
+	color: #FAE7B5;	
+	letter-spacing:1px;
+	font-size: 64px;
+
+
+}
+
+h2	{
+	color: #FAE7B5;
+	font-size: 24px;
+	font-weight: Lighter;
+}
+
+a {
+	text-decoration: ;
+}
